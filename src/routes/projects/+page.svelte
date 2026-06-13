@@ -15,7 +15,7 @@
 	</p>
 
 	<p>
-		right now you can check the <a href="https://github.com/amethistwin">github</a> for any public stuff
+		right now you can check the <a href="https://github.com/amethistnet">github</a> for any public stuff
 		we made
 	</p>
 </div>

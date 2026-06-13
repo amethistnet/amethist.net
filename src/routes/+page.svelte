@@ -33,7 +33,7 @@
 		<SocialLink href="https://steamcommunity.com/groups" label="steam" disabled>
 			<i class="hn hn-steam"></i>
 		</SocialLink>
-		<SocialLink href="https://github.com/amethistwin" label="github">
+		<SocialLink href="https://github.com/amethistnet" label="github">
 			<i class="hn hn-github"></i>
 		</SocialLink>
 		<SocialLink href="https://cat.basil.florist" label="github">
