@@ -2,11 +2,11 @@
 	import SEO from '$lib/components/SEO.svelte';
 </script>
 
-<SEO title="Servers" description="Game servers hosted by Bismuth" />
+<SEO title="Servers" description="Game servers hosted by Amethist" />
 <div class="p-8 flex flex-col items-center gap-4">
 	<h1>Servers</h1>
 	<h2>
-		Bismuth hosts many game servers, primarily for Source Engine games like Team Fortress 2. But we
+		Amethist hosts many game servers, primarily for Source Engine games like Team Fortress 2. But we
 		dabble in other games too.
 	</h2>
 

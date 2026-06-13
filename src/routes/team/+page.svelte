@@ -13,7 +13,7 @@
 		{
 			name: 'Flowyan',
 			role: ['Lead Developer', 'Owner'],
-			bio: 'Flowyan is the lead developer and owner of BISMUTH.',
+			bio: 'Flowyan is the lead developer and owner of AMETHIST.',
 			photoUrl: '/team/flowyan.jpg',
 			socialLinks: [
 				{ platform: 'GitHub', url: 'https://github.com/flowyan' },
@@ -35,7 +35,7 @@
 	];
 </script>
 
-<SEO title="Team" description="The team behind Bismuth" />
+<SEO title="Team" description="The team behind Amethist" />
 <div class="p-8 flex flex-col items-center gap-4">
 	<h1>The Team</h1>
 	<h2>

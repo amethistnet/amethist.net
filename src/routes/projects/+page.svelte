@@ -2,11 +2,11 @@
 	import SEO from '$lib/components/SEO.svelte';
 </script>
 
-<SEO title="Projects" description="Projects by Bismuth" />
+<SEO title="Projects" description="Projects by Amethist" />
 <div class="p-8 flex flex-col items-center gap-4">
 	<h1>Projects</h1>
 	<h2>
-		We have many projects at Bismuth ranging from software projects, to projects revolving around
+		We have many projects at Amethist ranging from software projects, to projects revolving around
 		making managing our server easier and much more.
 	</h2>
 
@@ -15,7 +15,7 @@
 	</p>
 
 	<p>
-		right now you can check the <a href="https://github.com/bismuthwin">github</a> for any public stuff
+		right now you can check the <a href="https://github.com/amethistwin">github</a> for any public stuff
 		we made
 	</p>
 </div>

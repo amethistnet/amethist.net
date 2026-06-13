@@ -13,6 +13,6 @@
 		z-index: -1;
 		opacity: 0.05;
 		pointer-events: none;
-		filter: blur(4px) invert(1);
+		filter: blur(4px) invert(0);
 	}
 </style>

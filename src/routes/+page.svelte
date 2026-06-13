@@ -3,7 +3,7 @@
 	import SEO from '$lib/components/SEO.svelte';
 	import SocialLink from '$lib/components/socialLink.svelte';
 
-	const title = 'BISMUTH';
+	const title = 'AMETHIST';
 	const description =
 		'A small group of friends creating and developing all sorts of stuff together';
 </script>
@@ -33,7 +33,7 @@
 		<SocialLink href="https://steamcommunity.com/groups" label="steam" disabled>
 			<i class="hn hn-steam"></i>
 		</SocialLink>
-		<SocialLink href="https://github.com/bismuthwin" label="github">
+		<SocialLink href="https://github.com/amethistwin" label="github">
 			<i class="hn hn-github"></i>
 		</SocialLink>
 		<SocialLink href="https://cat.basil.florist" label="github">

@@ -15,7 +15,7 @@
 </script>
 
 <nav>
-	<a class="brandName" href="/">BISMUTH</a>
+	<a class="brandName" href="/">AMETHIST</a>
 	<div class="linksRight">
 		{#each navLinks as { href, label }}
 			<a class="navLink" data-active={page.url.pathname === href ? 'true' : 'false'} {href}
