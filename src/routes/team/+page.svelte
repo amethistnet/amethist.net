@@ -17,7 +17,7 @@
 			photoUrl: '/team/flowyan.jpg',
 			socialLinks: [
 				{ platform: 'GitHub', url: 'https://github.com/flowyan' },
-				{ platform: 'Twitter', url: 'https://x.com/flowyan_' },
+				{ platform: 'Bluesky', url: 'https://bsky.app/profile/flwn.dev' },
 				{ platform: 'Steam', url: 'https://steamcommunity.com/id/flowyan' }
 			]
 		},
